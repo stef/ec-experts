@@ -1,0 +1,865 @@
+[x] Bulgarian Chamber of Commerce and Industry
+[>] Chamber of Commerce and Industry (3309)
+
+[x] Estonian Chamber of Commerce and Industry
+[>] Chamber of Commerce and Industry (3310)
+
+[x] OECD
+[>] Organisation for Economic Co-operation and Development (OECD)
+[>] OCDE - Organisation de Coopération et de Développement Economiques. OECD Pesticides Programme ENV/EHS
+
+[x] European Free Trade Association (EFTA)
+[>] EFTA - European Free Trade Association
+
+[x] WHO Regional Office for Europe
+[>] WHO-Regional Office for Europe
+[>] WHO EUROPE
+
+[x] Council of Europe - COE
+[>] Council of Europe
+[>] COUNCIL OF EUROPE
+
+[x] European Investment Bank (EIB)
+[>] European Investment Bank
+
+[x] SICI - The Standing International Conference of Inspectorates
+[>] Standing International Conference of Inspectors
+
+[x] MoNE (Ministry of National Education)
+[>] Ministry of National Education
+[>] Ministry of National Education - Projects Coordination Unit, Board of Inspection, DG for Foreign Affairs
+[>] Ministry of National Education, DG EU and Foreign Relations
+
+[x] Ministry of Education and Science
+[>] Ministry of Education & Science - Sector to Enhance Primary and Secondary Education
+
+[x] Norwegian Centre for International Cooperation in Higher Education
+[>] SIU - Norwegian Centre for International Cooperation of Higher Education
+[>] Norwegian Centre for International Cooperation in Higher Education – SIU
+
+[x] Norwegian Directorate for Education and Training
+[>] Norwegian Directorate for Education and Training - Department of Curriculum
+[>] The Norwegian Directorate for Education and Training - Department of Vocational Education
+[>] Norwegian Directorate for Education and Training - Department for Vocational Education and Training
+
+[x] Norwegian Ministry of Education and Research
+[>] Ministry of Education and Research
+[>] Ministry of Education
+
+[x] Norwegian Ministry of Education & Research - Department of Education and Training
+[>] Norwegian Ministry of Education and Research - Department of Education and Training
+[>] Department of Education and Training Norwegian Ministry of Education and Research
+
+[x] Norwegian Ministry of Health and Care Services
+[>] Ministry of Health and Care Services
+
+[x] The Scientific and Technological Research Council of Turkey
+[>] Scientific and Technical Research Council
+
+[x] State Secretariat for Education, Research and Innovation SERI
+[>] State Secretariat for Education and Research SER
+
+[x] Assembly of European Regions
+[>] The Assembly of European Regions
+
+[x] CRPM (Conférence des Régions Périphériques Maritimes d'Europe)
+[>] Conférence des Régions Périphphériques Maritimes d'Europe (CRPM)
+
+[x] European Social Network
+[>] ESN (European Social Network)
+[>] European Social Network
+
+[x] European Economic and Social Committee (EESC)
+[>] EESC (European Economic and Social Committee) President of the SOC Section of the EESC
+[>] European Economic and Social Committee
+[>] European Economic & Social Committee
+
+[x] European Environment Agency (EEA)
+[>] European environment agency
+
+[x] European Agency for Fundamental Rights
+[>] European Union Fundamental Rights Agency
+
+[x] CEDEFOP - European Centre for the Development of Vocational Training 
+[>] CEDEFOP (Centre Européen pour le Développement de la Formation Professionnelle)
+[>] Centre européen pour le développement de l'enseignement et de la formation professionnels (CEDEFOP)
+[>] European Centre for Development of Vocational Training (CEDEFOP)
+
+[x] ETF – European Training Foundation
+[>] European Training Foundation
+[>] European Training Foundation (ETF)
+
+[x] Center for Vocational Education & Training
+[>] Centre for Vocational Education
+
+[x] European Consumer Centres Network 
+[>] European Consumers Centre, Belgium
+[>] European Consumer Centre AT
+[>] European Consumer Centre BE
+[>] European Consumer Centre BG
+[>] European Consumer Centre CY
+[>] European Consumer Centre CZ
+[>] European Consumer Centre DK
+[>] European Consumer Centre DE
+[>] European Consumer Centre ES
+[>] European Consumer Centre EL
+[>] European Consumer Centre EE
+[>] European Consumer Centre FR
+[>] European Consumer Centre FI
+[>] European Consumer Centre HU
+[>] European Consumer Centre IE
+[>] European Consumer Centre IT
+[>] European Consumer Centre IS
+[>] European Consumer Centre NO
+[>] European Consumer Centre NL
+[>] European Consumer Centre LU
+[>] European Consumer Centre LT
+[>] European Consumer Centre LV
+[>] European Consumer Centre MT
+[>] European Consumer Centre RO
+[>] European Consumer Centre SI
+[>] European Consumer Centre SK
+[>] European Consumer Centre SE
+[>] European Consumer Centre PT
+[>] European Consumer Centre PL
+[>] European Consumer Centre UK
+
+[x] COPA-COGECA (Comité des Organisations Professionnelles Agricoles - Confédération Générale de la Coopération Agricole)
+[>] Agricultural organizations and cooperatives (COPA-COGECA)
+[>] Comité des Organisations Professionnelles Agricoles-Comité Général de la Coopération Agricole de l'Union européenne (COPA-COGECA)
+[>] Comité des Organisations Professionnelles Agricoles-Comité Général de la Coopération de l'Union européenne (COPA-COGECA)
+[>] COPA-COGECA (Comité des Organisations Professionnelles Agricoles - Confédération Générale de la Coopération Agricole)
+[>] Comité des Organisations Professionnelles Agricoles-Comité Général de la Coopération Agricole de l'Union européenne (COPA-COGECA) - (15 sièges)
+[>] Agricultural organizations and coooperatives (COPA-COGECA)
+[>] Committee of Professional Agricultural Organisations - General Commitee for Agricultural Cooperation in the EU – COPA/COGECA
+
+[x] Comité Européen de Liaison des Commerces Agro-alimentaires (CELCAA)
+[>] Comité Européen de Liaison des Commerces Agro-alimentaires (CECAA)
+
+[x] Bureau Européen des Unions de Consommateurs (BEUC)
+[>] Bureau Europeen des Unions de Consommateurs (BEUC)
+[>] BEUC - Bureau Européen union des consommateurs
+[>] BEUC, Bureau européen des unions de consommateurs
+
+[x] Fédération Européenne des Syndicats des Secteurs de l'Alimentation de l'Agriculture et du Tourisme et des Branches Connexes (EFFAT)
+[>] Fédération Européenne des Syndicats des Secteurs de l'alimentation de l'Agricultures et du Tourisme et des Branches Connexes (EFFAT)
+
+[x] BIRDLIFE - Bureau Européen de l'Environnement / European Environmental Bureau (BEE/EEB) - FORUM FOR NATURE - World Wide Fund for Nature (WWF)
+[>] BIRDLIFE - Bureau Européen de l'Environnement / European Environmental Bureau (BEE/EEB) - FORUM FOR NATURE - World Wide Fund for Nature (WWF
+[>] BIRDLIFEBIRDLIFE - Bureau Européen de l'Environnement / European Environmental Bureau (BEE/EEB) - FORUM FOR NATURE - World Wide Fund for Nature (WWF)
+[>] BIRDLIFE - Bureau Européen de l'Environnement / European BIRDLIFE - Bureau Européen de l'Environnement / European Environmental Bureau (BEE/EEB) - FORUM EUROPEEN POUR LE PASTORALISME ET LA CONSERVATION DE LA NATURE - World Wide Fund for Nature (WWF)
+
+[x] European Environment Bureau (EEB)
+[>] EEB, European Environmental Bureau
+[>] EEB - European Environmental Bureau
+[>] Bureau Européen de l'Environnement / European Environmental Bureau (BEE/EEB)
+
+[x] Confédération européenne des propriétaires forestiers - CEPF
+[>] Confédération Européenne des Propriétaires Forestiers (CEPF)
+
+[x] World Wide Fund for Nature (WWF)
+[>] World Wide Fund for Nature
+[>] WORLD WILDLIFE FUND
+[>] WWF, World Wildlife Fund
+[>] World Wildlife Fund (WWF)
+
+[x] European Coordination Via Campesina
+[>] European Coordination Via Campesina (ECVC)
+
+[x] European Landowners' Organisation (ELO)
+[>] ELO - European Landowners' Organisation
+[>] European Landowners' Organisation - ELO
+[>] European Landowners' Organisation – ELO
+[>] European Landowners Organization (ELO)
+
+[x] BusinessEurope
+[>] Business Europe
+[>] BUSINESS EUROPE
+[>] BUSINESSEUROPE
+[>] Businesseurope
+
+[x] European Youth Forum
+[>] EYF (European Youth Forum)
+
+[x] European Trade Union Confederation (ETUC)
+[>] ETUC (European Trade Union Confederation)
+[>] European Trade Union Congress (ETUC)
+[>] ETUC - European Trade Union Confederation
+[>] European Trade Union Confederation
+[>] European Trade Union Confederatoin
+[>] ETUC
+[>] ETUC/CES - European Trade Union Confederation (Confédération européenne des Syndicats)
+
+[x] ETUCE
+[>] ETUCE - European Trade Union Committee for Education
+[>] European Trade Union Committee for Education
+
+[x] National Confederation of Hungarian Trade Unions
+[>] National Federation of Hungarian Trade Unions
+
+[x] Czech-Moravian Confederation of Trade Unions
+[>] Moravian Confederation of Trade Unions
+
+[x] UNIAO GERAL DE TRABALHADORES (UGT-P)
+[>] União Geral dos Trabalhadores
+[>] UGT - Uniao Geral dos Trabalhadores
+[>] Uniao Geral dos Trabalhadores
+
+[x] Unión General de Trabajadores
+[>] Union General de Trabajadores (UGT)
+
+[x] Confederation of the Independent Trade Unions in Bulgaria
+[>] Confederation of the Independent Trade Unions
+[>] Confederation of Independent Trade Unions
+
+[x] CMTU - Confederation of Malta Trade Unions
+[>] Confederation of Malta Trade Unions
+
+[x] National Trade Union of Romania (MERIDIAN)
+[>] Confederatia Nationala Sindicala Meridian
+
+[x] Free Trade Union Confederation of Latvia
+[>] Latvian Free Trade Union Confederation
+
+[x] General Workers Union
+[>] Generall Workers' Union
+
+[x] Cyprus Workers Confederation SEK
+[>] Cyprus Workers' Confederation (SEK)
+[>] Cyprus Worker's Confederation (SEK Trade Union School)
+
+[x] PEO - Pancyprian Federation of Labor
+[>] Pancyprian Federation of Labour (PEO)
+
+[x] European Sea Ports Organisation (ESPO)
+[>] ESPO (European Sea Ports Organisation)
+
+[x] International Federation of Organic Agriculture Movements (IFOAM)
+[>] International Federation of Organic (IFOAM)
+
+[x] CFE - Conféderation Fiscale Européenne
+[>] CONFEDERATION FISCALE EUROPEENNE
+
+[x] World Vision International for HRDN
+[>] Plan International for HRDN
+
+[x] Confederation of Finnish Industries
+[>] Confederation of Finnish Industries-EK
+
+[x] UEAPME (European Association of Craft, Small and Medium-Sized Enterprises)
+[>] UEAPME - European Association of Craft, Small and Medium-Sized Enterprises
+[>] UEAPME - European Association of Craft small and Medium-Sized Enterprises
+[>] UEAPME - European Union of Crafts and Small and Medium-sized Enterprises
+[>] UEAPME European Association of craft , small and medium sized enterprises
+[>] UAPME (European Association of Craft, Small and Medium-sized Enterprises)
+[>] UEAPME - Union européenne de l'Artisanat et des petites et moyennes entreprise
+[>] European Association of Craft, Small and Medium-Sized Enterprises (UEAPME)
+[>] Union Européenne de l’Artisanat et des Petites et Moyennes Entreprises (UEAPME)
+[>] Union Européenne de l'Artisanat et des Petites et Moyennes Entreprises (UEAPME
+[>] European Association of Craft, Small and Medium-sized Enterprises
+
+[x] LDDK - Latvian Employers Confederation
+[>] Employers' Confederation of Latvia
+
+[x] Siemens
+[>] Siemens AG
+[>] SIEMENS AG
+[>] SIEMENS
+
+[x] Transport & Environment (T&E) 
+[>] T&E - European Federation for Transport and Environment
+[>] Transport & Environment
+[>] Transport & Environment (ClientEarth)
+
+[x] CIDREE - Consortium of Institutions for Development and Research in Education in Europe
+[>] Consortium of Institutions for Development and Research in Education in Europe
+
+[x] The Malta Chamber of Commerce, Entreprise and Industry
+[>] Malta Chamber of Commerce
+
+[x] Lithuanian Business Employers Confederation
+[>] Lithuanian Business Employers' Confederation
+
+[x] Irish business and employers confederation
+[>] Irish Business and Employers Confederation
+
+[x] Confederation of Industry of the Czech Republic
+[>] CZECH CONFEDERATION OF INDUSTRY
+
+[x] Estonian Employers' Confederation
+[>] Estonian Employers'Confederation
+
+[x] Industriellenvereinigung
+[>] Industriellenverinigung
+
+[x] VTT Technical Research Center of Finland
+[>] VTT, technical research centre of Finland
+
+[x] European AIDS Treatment Group
+[>] European AIDS Treatment Group (EATG)
+
+[x] IBMA - International Biocontrol Manufacturers Association
+[>] International Biocontrol Manufacturers Association (IBMA)
+
+[x] European Shippers Council (ESC)
+[>] ESC - European Shippers' Council
+
+[x] Cyprus Employers and Industrialists Federation 
+[>] Employers and Industrialists Federation - OEB
+[>] Employers and Industrialists Federation
+
+[x] EUROGROUP FOR ANIMAL WELFARE
+[>] Eurogroup for Animals
+
+[x] Cooperatives Europe / CECOP 
+[>] Cooperatives Europe
+[>] CECOP (Confédération Européenne des Coopératives de Production et de Travail Associé, des Coopératives Sociales et des Entreprises Sociales et Participatives)
+
+[x] CONFINDUSTRIA
+[>] Confindustria IT
+
+[x] European Disability Forum
+[>] EDF (European Disability Forum)
+
+[x] European Public Health Alliance (EPHA)
+[>] EPHA (European Public Health Alliance)
+[>] European Public Health Alliance
+
+[x] WKÖ - Wirtschaftkammer Österreich
+[>] Wirtschaftskammer Österreich
+
+[x] European Vending Association (EVA)
+[>] European Vending Association aisbl
+[>] European Vending Association
+
+[x] European Aluminium Association
+[>] European Aluminium Assoc.
+
+[x] CEEP (European Centre of Enterprises with Public Participation & of Enterprises of General Economic Interest)
+[>] Le Centre européen des entreprises à participation publique et des entreprises d'intérêt économique général (CEEP)
+[>] Centre européen des entreprises à participation publique et des entreprises d'intérêt économique général
+[>] CEEP - European Centre of Enterprises with Public Participation and of Enterprises of General Economic Interest - The Secretary-General
+
+[x] European Parents Association
+[>] European Parents Association (EPA)
+
+[x] Federation of European Accountants (FEE)
+[>] FEE - Federation of European Accountants
+
+[x] European Women Lobby / Lobby Européen des Femmes (EWL-LEF)
+[>] EWL (European Women's Lobby)
+[>] European Women's Lobby
+[>] European Women’s Lobby
+
+[x] Mouvement des Entreprises de France (MEDEF)
+[>] Mouvement des Entreprises de France
+[>] MEDEF - Mouvement des Entreprises de France
+
+[x] The European Automobile Manufacturers Association (ACEA)
+[>] ACEA - European Automobile Manufacturers' Association
+
+[x] Federal Office for Professional Education and Technology (OPET)
+[>] Federal Office for Professional Education and Technology OPET
+
+[x] Confederation of Labour Podkrepa
+[>] PODKREPA Labour Confederation
+
+[x] The European Civil Society Platform on Lifelong Learning
+[>] European Civil Society Platform on Lifelong Learning (EUCIS-LLL)
+[>] European Civil Platform on Lifelong Leraning (EUCIS-LLL)
+
+[x] European Small Business Alliance
+[>] ESBA European Small Business Alliance
+
+[x] European Association of Communications Agencies (EACA)
+[>] EACA, European Association of Communications Agencies
+
+[x] European Dredging Association (EUDA)
+[>] European Dredging Association
+
+[x] National Technical University of Athens 
+[>] National Technical University
+
+[x] ERRT, European Retail Round Table
+[>] ERRT-European Retail Round Table
+
+[x] EAPN (European Anti Poverty Network)
+[>] European Anti-Poverty Network (EAPN)
+
+[x] University of Tartu , Institute of Physics
+[>] Institute of Physics - University of Tartu
+
+[x] EPPO - European and Mediterranean Plant Protection Organisation
+[>] European and Mediterranean Plant Protection Organization (EPPO)
+
+[x] Union des Sylviculteurs du Sud de l'Europe (USSE)
+[>] U.S.S.E (Union des Sylviculteurs du Sud de l’Europe)
+
+[x] ANEC-the European consumer voice in standardisation
+[>] ANEC, the European consumer voice in standardisation
+[>] ANEC - European Association for the Co-ordination of Consumer Representation in Standardisation
+
+[x] European Payments Council
+[>] European Payments Council (EPC)
+
+[x] Regional Environmental Centre 
+[>] REGIONAL ENVIRONMENTAL CENTER
+
+[x] European Providers of Vocational Education and Training (EUproVET)
+[>] European Providers of Vocational Education and Training
+[>] European Association of Institutes for Vocatoinal Training
+[>] European Vocational Training Association
+
+[x] European Network of Innovation Agencies (TAFTIE)
+[>] TAFTIE -European Network of Innovation Agencies
+
+[x] EUROCHAMBRES (Association of German Chambers of Industry and Commerce/DIHK)
+[>] Association of European Chambers of Commerce and Industry (EUROCHAMBRES)
+[>] The European Association of Chambers of Commerce and Industry (EUROCHAMBRES)
+
+[x] European Aquaculture Society (EAS)
+[>] EAS (European Aquaculture Society)
+
+[x] European Cruise Council (ECC)
+[>] European Cruise Council
+
+[x] Polish Academy of Science
+[>] Polish Academy of Sciences, Space Research Centre
+
+[x] CEN - European Committee for Standardization
+[>] European Committee for Standardization
+
+[x] OGP (International Association of Oil & Gas Producers)
+[>] INTERNATIONAL ASSOCIATION OF OIL & GAS PRODUCERS (OGP EUROPE)
+
+[x] European Savings Banks Group (ESBG)
+[>] European Savings Banks Group
+
+[x] Centre National d'Etudes Spatiales (CNES)
+[>] Centre national d'études spatiales
+
+[x] HEAL - Health & Environment Alliance
+[>] Health and Environment Alliance
+
+[x] Czech Technical University
+[>] Czech Technical University in Prague
+
+[x] European Association of Cooperative Banks
+[>] European Association of Co-operative Banks
+
+[x] ETSII, Universidad Politécnica de Madrid
+[>] Universidad Politécnica de Madrid
+
+[x] EPEE, European Partnership for Energy and the Environment
+[>] European Partners for the Environment
+
+[x] Deutsches Zentrum für Luft- und Raumfahrt (DLR)
+[>] Deutsches Zentrum für Luft- und Raumfahrt e.V.
+[>] Deutches Zentrum fur Luft-und raumfahrt
+
+[x] EDANA (European Disposables & Non-wovens Association)
+[>] EDANA, European Disposables and Nonwovens Association
+
+[x] European Association for the Education of Adults
+[>] European Society for Research on the Education of Adults
+
+[x] LEWIATAN- Polish Confederation of Private Employers
+[>] Polish Confederation of Private Employers Lewiatan
+
+[x] Centre for EU Education & Youth Programmes - Lifelong Learning Programmes
+[>] EU Education & Youth Programmes
+
+[x] EPR (European Platform for Rehabilitation)
+[>] European Platform for Rehabilitation
+
+[x] EASPD (European Association of Service Providers for Persons with Disabilities)
+[>] European Association of Service Providers for Persons with Disabilities (EASPD
+
+[x] Max-Planck-Institut für Plasmaphysik
+[>] IPP Max-Planck-Institut für Plasmaphysic
+
+[x] Euro Coop - European Community of Consumer Co-operatives
+[>] Euro Coop – European Community of Consumer Co-operatives
+
+[x] Associazione Bancaria Italiana (ABI)
+[>] Associazione Bancaria Italiana
+
+[x] Institute of Logistics and Warehousing
+[>] Institiute of Logistics and Warehousing
+
+[x] Association for Teacher Education in Europe
+[>] Association of Teacher Education in Europe
+
+[x] European Federation of National Organisations working with the Homeless
+[>] FEANTSA (European Federation of National Organisations working with Homeless)
+
+[x] Luxinnovation GIE
+[>] Luxinnovation
+
+[x] European Business Angels Association
+[>] European Business association EBA
+
+[x] COFACE (Confederation of Family Organisations in the EU)
+[>] Confederation of Family Organisations in the EU
+[>] Confederation of Family Organisations in the E.U (COFACE)
+
+[x] PICUM (the Platform for International Cooperation on Undocumented Migrants) 
+[>] Platform for International Cooperation on Undocumented Migrants
+
+[x] Jozef Stefan Institute
+[>] Institute Josef Stefan
+
+[x] Institute on Nuclear Research and Nuclear Energy - BAS Bulgarian Academy of Sciences
+[>] Institute for Nuclear Research and Nuclear Energy. Bulgarian Academy of Sciences
+
+[x] Lithuanian Institute of Energy
+[>] Lithuanian Energy Institute
+
+[x] King Baudouin Foundation
+[>] Fondation Roi Baudouin
+
+
+[x] Andreas Baumüller
+[>] Aumüller, Andreas
+
+[x] Franz REITHUBER
+[>] REITHUBER Franz
+
+
+
+
+[x] SMITH Rebekah
+[>] Rebekah Smith
+
+[x] Romana Caput-Jogunica
+[>] Caput-Jogunica Romana
+
+
+
+
+[x] Yvan Verbauwhede
+[>] Yvan VERBAUDWHEDE
+
+[x] Ben Butters
+[>] BUTTERS Ben
+
+
+
+
+[x] Erik Mink
+[>] MINK Erik
+
+
+[x] Rodrigo Gouveia
+[>] Gouveia Rodrigo
+
+
+
+
+[x] NIELSEN Linda
+[>] LINDA NIELSEN
+
+
+
+
+[x] BASTIOLI Catia
+[>] Catia BASTIOLI
+
+[x] Gérard Choplin
+[>] Gerard Choplin
+
+[x] Arnis Kokorevics
+[>] KOKOREVICS Arnis
+
+[x] ROGIERS Vera
+[>] Vera Rogiers
+
+[x] Anne-Sophie PARENT
+[>] PARENT Anne-Sophie
+
+[x] SERBAN Madlen
+[>] Madlen SERBAN
+
+[x] DINGS Jos
+[>] DINGS, Jos
+
+[x] VOLOZINSKIS Liliane
+[>] Ms VOLOZINSKIS Liliane
+[>] Liliane VOLOZINSKIS
+
+
+
+
+
+[x] Andreas VERSTEEGH
+[>] André VERSTEEGH
+
+[x] Schmalzried Martin
+[>] Martin SCHMALZRIED
+
+[x] Hess, Burkhard
+[>] Hess Burkhard
+[>] Burkhard Hess
+
+[x] Gromová Edita
+[>] Edita GROMOVÁ
+
+[x] Liliane VOLOZINSKIS
+[>] VOLOZINSKIS Liliane
+
+[x] XUEREB Peter G.
+[>] Peter Xuereb
+
+[x] Michalik, Tomasz
+[>] MICHALIK Tomasz
+
+[x] Nina Renshaw
+[>] RENSHAW Nina
+
+[x] Manuel Malheiros
+[>] Malheiros, Manuel
+
+[x] Ólafur GRÉTAR KRISTJÁNSSON
+[>] Ólafur Grétar KRISTJANSSON
+
+
+
+
+
+[x] Tim Werkhoven
+[>] WERKHOVEN Tim
+
+[x] Roshan DI PUPPO
+[>] Di Puppo Roshan
+
+[x] Valsamis MITSILEGAS
+[>] Mitsilegas Valsamis
+
+[x] Philippe Binard
+[>] Binard Philippe
+
+[x] Christian Amand
+[>] Amand, Christian
+
+[x] Philip Sheppard
+[>] Sheppard Philip
+
+[x] Tommaso GRIMALDI
+[>] GRIMALDI Tommaso
+
+[x] Marinos PORTOKALLIDES
+[>] PORTOKALIDES, Marinos
+
+[x] Rikki Holtmaat
+[>] Holtmaat, Rikki
+
+[x] Karl-Heinz Haydl
+[>] Haydl, Karl-Heinz
+
+[x] Dr. Mariana MAZZUCATO
+[>] MAZZUCATO Mariana
+
+[x] PALANKAI, Tibor
+[>] PALANKAI Tibor
+
+
+
+
+
+
+
+
+
+
+
+
+[x] Marleen VOORDECKERS
+[>] VOORDECKERS Marleen
+
+[x] PONCELET Patrick
+[>] Patrick Poncelet
+
+[x] VAN RENTERGEM, Theofiel
+[>] Theofiel VAN RENTERGEM
+
+[x] Beate KETTLITZ
+[>] Kettlitz Beate
+
+[x] Marion Kindle-Kuehnis
+[>] Marion KINDLE-KUHNIS
+
+[x] CARACA João
+[>] CARACA Joao
+
+[x] MULLER-GRAFF Peter-Christian
+[>] MULLER-GRAFF, Peter-Christian
+
+[x] BASON Christian
+[>] Christian Bason
+
+[x] Luk ZELDERLOO
+[>] Zelderloo
+
+[x] GRÉGOIRE Cécile
+[>] Cécile Grégoire
+
+[x] Astrid PIERON
+[>] Astris Pieron
+
+[x] Stefan Maunz
+[>] MAUNZ Stefan
+
+[x] Lena Odelberg
+[>] Odelberg, Lena
+
+[x] Christel Davidson
+[>] Davidson Christel
+
+[x] LINOS Athena
+[>] LINOS, Athena
+
+
+
+
+[x] Kristian Koktvedgaard
+[>] Koktvegaard, Kristian
+
+[x] Sabine SPELL
+[>] Spell Sabine
+
+[x] KOTOWSKA Irena
+[>] KOTOWSKA, Irena E.
+
+[x] van Berkel Marieke
+[>] Marieke van Berkel
+
+
+
+
+[x] Stephane Arditi
+[>] Stephane Artidi
+
+[x] BERZINS, Janis
+[>] Janis BERZINS
+
+[x] PORTO Manuel
+[>] PORTO, Manuel
+
+[x] ANTONELLI MÜDESPACHER Laura
+[>] Laura ANTONELLI MÜDESPACHER
+
+[x] Christina Linderholm
+[>] LINDERHOLM Christina
+
+[x] Libor Dupal
+[>] DUPAL Libor
+
+
+
+
+[x] BIELEFELD Norbert
+[>] Norbert Bielefeld
+
+[x] MAIMETS Toivo
+[>] TOIVO MAIMETS
+
+[x] Raúl Nehring Andrade
+[>] Raul Nehring Andrade
+
+[x] Chas ROY-CHOWDHURY
+[>] Chas Roy Chowdhury
+[>] Roy-Chowdhury, Chas
+
+[x] KOSINSKA Monika
+[>] Monika KOSINKA
+
+[x] Hass Hans-Joachim
+[>] HAß Hans-Joachim
+
+[x] Susanne Logstrup
+[>] Logstrup Susanne
+
+[x] Kutin Breda
+[>] Breda Kutin
+
+[x] SCHELLMANN Gottfried
+[>] Schellmann, Gottfried
+
+
+
+
+[x] Dominic Lyle
+[>] Lyle Dominic
+
+
+
+
+[x] Jasmina HAVRANEK
+[>] HAVRANEK Jasmina
+
+[x] MENDOZA Juan
+[>] Juan MENDOZA
+
+[x] Vervaele John
+[>] JOHN VERVAELE
+
+[x] FoodDrinkEurope
+[>] FOODDRINKEUROPE
+
+
+[x] EuroCommerce
+[>] EUROCOMMERCE
+
+
+[x] Oxfam International
+[>] OXFAM International
+
+
+[x] Peter Torkler
+[>] PETER TORKLER
+
+
+[x] HOFFMANN Helen
+[>] Helen Hoffmann
+
+
+[x] representative of national administration, appointed ad-hoc
+[>] Representative of national administration, appointed ad-hoc
+
+
+[x] Jana Hainsworth
+[>] Jana HAINSWORTH
+
+
+[x] Aad SMAAL
+[>] Aad Smaal
+
+
+[x] Georg GEBERTH
+[>] Georg Geberth
+
+
+[x] Teresa Ogrodzinska
+[>] Teresa OGRODZINSKA
+
+
+[x] Erik Sandvik
+[>] Erik SANDVIK
+
+
+[x] Bianca Schulz
+[>] Bianca SCHULZ
+
+
+[x] Edith Appelmans
+[>] Edith APPELMANS
+
+
+[x] Ostojic Julka
+[>] OSTOJIC Julka
+
+
+[x] Libor LOCHMAN
+[>] Libor Lochman
+
+

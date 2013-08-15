@@ -17,9 +17,8 @@ mkdir data
 # run an update
 ./update.sh
 
-# update.sh performs the following steps:
-# (you can and should use the command below to achieve manual improvements 
-# when deduplicating)
+# update.sh performs the following steps: (you can and should use the
+# commands below to achieve manual improvements when deduplicating)
 
 # 1. you download the newest expert register dump from:
 # "http://ec.europa.eu/transparency/regexpert/view/transparency/openXML.cfm?file=RegExp_xml_{today}.xml"

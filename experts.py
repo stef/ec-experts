@@ -144,10 +144,8 @@ if __name__ == "__main__":
     emaps=None
     if len(sys.argv)>2:
         emaps=load_mappings(sys.argv[2])
-    # TODO selection_link add to the csv
     # TODO urls to linkedin http://linkedin.com/in/firstlastname
     # google is better: "https://encrypted.google.com/search?q=%s+european+commission+expert" % name
-    # document & package the whole shit for others to use
     fields=[ u'dg', u'org_name', u'status', u'interests_represented', u'sub_group', u'group', u'name', u'gender', u'prof_title', u'org_type', u'prof_profiles', u'nationality', u'group_type', u'active_since']
     w = UnicodeDictWriter(sys.stdout, fields)
     w.writeheader()

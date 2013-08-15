@@ -66,3 +66,6 @@ mkdir data
 
 # you can redo also steps 1. and 2. daily, to regenerate the csv based
 # on the newest data from the commission.
+
+# When you're done, load the generated data/entities-{today}.csv 
+# file in your favourite spreadsheet editor for further analysis.

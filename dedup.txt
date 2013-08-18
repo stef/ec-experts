@@ -862,4 +862,31 @@
 [x] Libor LOCHMAN
 [>] Libor Lochman
 
+[x] GSEE - General Federation of Greek Workers
+[>] GSEE
 
+[x] FOODDRINKEUROPE
+[>] FoodDrinkEurope
+
+[x] European Free Trade Association (EFTA)
+[>] EFTA Secretariat
+[>] EFTA Surveillance Authoritiy
+[>] EFTA Secretariat, Information Society & Telecommunication Services
+[>] EFTA Surveillance authority, Internal Market Affairs Directorate
+
+
+[x] BusinessEurope
+[>] Businesseurope - The Voice of Business in Europe - The Secretary-General
+[>] Businesseurope (Confederation of European Business)
+
+[x] CARITAS Europa
+[>] CARITAS EUROPA
+
+[x] Cooperatives Europe / CECOP
+[>] CECOP
+
+[x] COPA-COGECA (Comité des Organisations Professionnelles Agricoles - Confédération Générale de la Coopération Agricole)
+[>] Copa-Cogeca
+
+[x] Unión General de Trabajadores
+[>] U.G.T

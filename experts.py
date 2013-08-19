@@ -74,7 +74,7 @@ class UnicodeDictWriter:
         self.writer.writerow(self.fieldnames)
 
     def writerow(self, row):
-        self.writer.writerow([row.get(x,'').encode("utf-8") for x in self.fieldnames])
+        self.writer.writerow([(row.get(x,'') or '').encode("utf-8") for x in self.fieldnames])
         # Fetch UTF-8 output from the queue ...
         data = self.queue.getvalue()
         data = data.decode("utf-8")
@@ -96,46 +96,46 @@ def transform(fname, maps=None):
         for grptype in grp.get('group_members',[]):
             for member in grptype.get('members',[]):
                 if 'gender' in member:
-                    tmp=rep.copy()
+                    tmp=member.copy()
                     tmp.update({u'group': grp['name'],
-                         u'dg': grp['lead_dg'],
-                         u'active_since': grp['active_since'],
-                         u'group_type': grptype['name']})
+                                u'dg': grp['lead_dg'],
+                                u'active_since': grp['active_since'],
+                                u'group_type': grptype['name']})
                     if maps: tmp['name']=maps.get(tmp['name'],tmp['name'])
                     yield tmp
                 if 'name' in member:
                     for rep in member.get('representatives',[]):
                         tmp=rep.copy()
                         tmp.update({u'group': grp['name'],
-                             u'dg': grp['lead_dg'],
-                             u'active_since': grp['active_since'],
-                             u'group_type': grptype['name'],
-                             u'org_name': member['name'],
-                             u'org_type': member['type'],
-                             })
+                                    u'dg': grp['lead_dg'],
+                                    u'active_since': grp['active_since'],
+                                    u'group_type': grptype['name'],
+                                    u'org_name': member['name'],
+                                    u'org_type': member['type'],
+                                    })
                         if maps: tmp['org_name']=maps.get(tmp['org_name'],tmp['org_name'])
                         yield tmp
         for subgrp in grp.get('sub_groups',[]):
             for org in subgrp.get('members',[]):
                 if 'gender' in org:
-                    tmp=rep.copy()
+                    tmp=org.copy()
                     tmp.update({u'group': org['name'],
-                         u'dg': grp['lead_dg'],
-                         u'active_since': grp['active_since'],
-                         u'sub_group': subgrp['name']})
+                                u'dg': grp['lead_dg'],
+                                u'active_since': grp['active_since'],
+                                u'sub_group': subgrp['name']})
                     if maps: tmp['name']=maps.get(tmp['name'],tmp['name'])
                     yield tmp
                 for member in org.get('members',[]):
                     for rep in member.get('representatives',[]):
                         tmp=rep.copy()
                         tmp.update({u'group': grp['name'],
-                             u'dg': grp['lead_dg'],
-                             u'active_since': grp['active_since'],
-                             u'group_type': org['name'],
-                             u'sub_group': subgrp['name'],
-                             u'org_name': member['name'],
-                             u'org_type': member['type'],
-                             })
+                                    u'dg': grp['lead_dg'],
+                                    u'active_since': grp['active_since'],
+                                    u'group_type': org['name'],
+                                    u'sub_group': subgrp['name'],
+                                    u'org_name': member['name'],
+                                    u'org_type': member['type'],
+                                    })
                         if maps: tmp['org_name']=maps.get(tmp['org_name'],tmp['org_name'])
                         yield tmp
 

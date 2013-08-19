@@ -36,7 +36,7 @@ def extract_date(root):
     path='.//text()'
     return dparse('/'.join([unws(x)
                             for x in root.xpath(path, namespaces=ns)
-                            if unws(x)]))
+                            if unws(x)]), dayfirst=True)
 
 def extract_authorities(root):
     path='./t:public_authority/t:name/text()'

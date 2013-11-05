@@ -11,7 +11,7 @@ python extract.py data/regexp_${today}.xml >data/regexp_${today}.json
 
 # transform and dump expert register
 echo "generating new csv"
-python experts.py data/regexp_${today}.json dedup.txt >data/entities-${today}.csv
+python experts.py data/regexp_${today}.json entities-201308237_MASTER_PS.csv dedup.txt >data/entities-${today}.csv
 
 # dedup expert and rep names
 echo "searching for dedup candidates"

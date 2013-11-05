@@ -19,8 +19,7 @@
 
 from lxml.etree import parse, tostring
 from collections import OrderedDict
-from dateutil.parser import parse as dparse
-import json, csv, sys, cStringIO, codecs
+import json, csv, sys, cStringIO, codecs, datetime
 
 ns={'t': 'http://ec.europa.eu/transparency/regexpert/'}
 def extract_text_field(root):
@@ -33,10 +32,10 @@ def extract_list(root):
             if unws(x)]
 
 def extract_date(root):
-    path='.//text()'
-    return dparse('/'.join([unws(x)
-                            for x in root.xpath(path, namespaces=ns)
-                            if unws(x)]), dayfirst=True)
+    day=root.xpath('t:day/text()', namespaces=ns)
+    month=root.xpath('t:month/text()', namespaces=ns)
+    year=root.xpath('t:year/text()', namespaces=ns)
+    return datetime.date(int(year[0]), int(month[0]), int(day[0]))
 
 def extract_authorities(root):
     path='./t:public_authority/t:name/text()'
